@@ -1,1 +1,24 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.card {
+  margin-top: 3em;
+  margin-bottom: 7em;
+}
+
+body {
+  background-color: green;
+}
+
+#header {
+  font-size: 10em;
+}
+
+#body {
+  font-size: 15em;
+}
+
+#footer {
+  font-size: 10em;
+  transform: rotate(180deg);
+  transform-origin: left-top;
+}
